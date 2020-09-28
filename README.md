@@ -153,4 +153,7 @@ No. 54. SWISS AIR
 
 
 ### Contributing
-For adding to this list, either raise an [issue](https://github.com/cibinjoseph/HoneymanViolin/issues) with the required details or use the pull request feature at [GitHub](https://github.com/cibinjoseph/HoneymanViolin).
+For adding to this list, either  
+1. Raise an [issue](https://github.com/cibinjoseph/HoneymanViolin/issues) with the required details or 
+2. Use the pull request feature at [GitHub](https://github.com/cibinjoseph/HoneymanViolin) or
+3. Contact me at `cibinjoseph92@gmail.com`
