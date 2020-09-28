@@ -151,5 +151,6 @@ No. 68. GERMAN SONG
 No. 54. SWISS AIR
 - gseshag: [https://www.youtube.com/watch?v=PDtuzc7Ab14](https://www.youtube.com/watch?v=PDtuzc7Ab14)
 
+
 ### Contributing
-For adding to this list an available link, either raise an issue with the required details or use the pull request feature.
+For adding to this list, either raise an [issue](https://github.com/cibinjoseph/HoneymanViolin/issues) with the required details or use the pull request feature at [GitHub](https://github.com/cibinjoseph/HoneymanViolin).
