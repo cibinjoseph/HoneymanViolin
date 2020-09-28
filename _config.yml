@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Honeyman's Violin Tutor Resource
-description: A compilation of performances by various violinists of the pieces from the classic beginner's violin tutoring book *The Young Violinist's Tutor and Duet Book* by *WM. C. Honeyman*
+description: A compilation of performances by various violinists of the pieces from The Young Violinist's Tutor and Duet Book by W. C. Honeyman
 plugins:
   - jekyll-relative-links
 relative_links:
