@@ -1,12 +1,12 @@
-## PDF Resource  
+### PDF Resource  
 [**Download**](https://www.github.com/cibinjoseph/HoneymanViolin/raw/master/Honeyman.pdf) *The Young Violinist's Tutor and Duet Book* by *W. C. Honeyman*
 
 
-## List of pieces
+### List of pieces
 
 No. 13. COAL BLACK ROSE  
-- pianodudeler: [https://www.youtube.com/watch?v=IkJ-E3A0gIY](https://www.youtube.com/watch?v=IkJ-E3A0gIY)
-- pianodudeler: [https://www.youtube.com/watch?v=jeQxpdKbgz4](https://www.youtube.com/watch?v=jeQxpdKbgz4)
+  - pianodudeler: [https://www.youtube.com/watch?v=IkJ-E3A0gIY](https://www.youtube.com/watch?v=IkJ-E3A0gIY)
+  - pianodudeler: [https://www.youtube.com/watch?v=jeQxpdKbgz4](https://www.youtube.com/watch?v=jeQxpdKbgz4)
 
 No. 14. WEST END HORNPIPE  
 - pianodudeler: [https://www.youtube.com/watch?v=1xkVUexRD_0](https://www.youtube.com/watch?v=1xkVUexRD_0)
@@ -15,7 +15,7 @@ No. 14. WEST END HORNPIPE
 No. 15. BE KIND TO THY FATHER
 - pianodudeler: [https://www.youtube.com/watch?v=8iIlb1XArfE](https://www.youtube.com/watch?v=8iIlb1XArfE)
 
-No. 16.
+No. 16. FIRST EXERCISE FOR THE FOURTH FINGER  
 - pianodudeler: [https://www.youtube.com/watch?v=nPtexWz0KF8](https://www.youtube.com/watch?v=nPtexWz0KF8)
 
 No. 17.
@@ -64,9 +64,5 @@ No. 34.
 - pianodudeler: [https://www.youtube.com/watch?v=ss8VdS7TY_Y](https://www.youtube.com/watch?v=ss8VdS7TY_Y)
 
 
-## Contributing
+### Contributing
 For adding to this list an available link, either raise an issue with the required details or use the pull request feature.
-
-
-## Author
-[Cibin Joseph](https://www.github.com/cibinjoseph)
