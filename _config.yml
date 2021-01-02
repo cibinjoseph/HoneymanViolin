@@ -3,6 +3,7 @@ title: Honeyman's Violin Tutor Resource
 description: A compilation of performances by various violinists of the pieces from The Young Violinist's Tutor and Duet Book by W. C. Honeyman
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
